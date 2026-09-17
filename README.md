@@ -2,7 +2,6 @@
 
 ### Project 1
 ## Siege Demake
-
 Path: AP
 
 User: Someone who enjoys tactical shooters and wants to recreate that style of gameplay in a singleplayer environment. Less methodical than than games such as ready or not.
