@@ -16,5 +16,7 @@ Features:
 
  3. [ ] Alternate loadouts for the player character. A working primary, secondary, and melee slot. Player should have at least one alternative option in the primary and secondary slots.
 
+ 4. [ ] (Isometric?) camera system, third person camera that is independent of player rotation.
+
 Question
   * How do we implement CPU players with behaviors that seem emergent and tactical? How will they respond to the changing map?
